@@ -403,7 +403,6 @@ public abstract class AbstractNodeCContainer extends AbstractCContainer implemen
 		}
 	}
 
-	@SuppressWarnings("unchecked")
 	@Override
 	protected void initForm()
  {
